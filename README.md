@@ -45,7 +45,7 @@
 - Clustering result table:
 
   <p style="text-align: center;">
-Tabel - Akumulasi Hasil Nilai LRFMC pada Setiap Cluster
+Table - Accumulated LRFMC Value Results in Each Cluster
 </p> 
 
 |  Cluster  | High Value | Average Value | Low Value |
