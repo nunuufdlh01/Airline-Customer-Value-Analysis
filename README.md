@@ -38,9 +38,10 @@
 
 - From the output results, the number of clusters that have a balanced composition with each cluster member and taking into account the average silhouette score of each cluster is 4 clusters.
   Although 5 clusters have a higher average silhouette score than 4 clusters, 5 clusters have fewer cluster member compositions than 4 clusters, so this model is more efficient if 4 clusters are used.
-- Visualization result uses 2 PCA Variable:
+- Visualization result uses 2 PCA variable:
   
-  ![image](https://github.com/nunuufdlh01/Airline-Customer-Value-Analysis/assets/89932073/4b8f293f-1aa2-4e27-a0f8-08309c17e7e0)
+  ![image](https://github.com/nunuufdlh01/Airline-Customer-Value-Analysis/assets/89932073/ac249e04-b8de-4910-8053-133ae22b7ae9)
+
 - Clustering result table:
 
   <p style="text-align: center;">
@@ -54,7 +55,8 @@ Tabel - Akumulasi Hasil Nilai LRFMC pada Setiap Cluster
 | **Cluster 2** | L F M | C | R |
 | **Cluster 3** | R C | L | F M |
 
-![image](https://github.com/nunuufdlh01/Airline-Customer-Value-Analysis/assets/89932073/5be63ec3-0a7a-4706-9c86-bea5e7477457)
+![image](https://github.com/nunuufdlh01/Airline-Customer-Value-Analysis/assets/89932073/d48f7f65-012c-4be6-928e-13336517ae16)
+
 
 ## Clustering Interpretation
 
